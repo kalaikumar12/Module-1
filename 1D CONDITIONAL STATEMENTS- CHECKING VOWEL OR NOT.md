@@ -10,8 +10,8 @@ To write a Python program to check whether the given number is even or odd using
 6. Terminate the program.  
 ## PROGRAM
 ```python
-# Reg.No- 212222060212
-# Name- Sakthibalan R
+# Reg.No- 212222060103
+# Name-  kalaikumar E
 a = int(input())
 if a % 2 == 0:
     print("EVEN")
